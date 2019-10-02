@@ -1,8 +1,7 @@
 {
   "name": "ether-auctions",
   "version": "1.0.0",
-  "description": "solidity programming example for auctions built using truffle and ganache",
-  "main": "truffle.js",
+  "description": "Test repository for Ethereum based auctions using the truffle suite",
   "directories": {
     "test": "test"
   },
@@ -13,13 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/gollum18/ether-auctions.git"
   },
-  "author": "Christen Ford & jcb82",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/gollum18/ether-auctions/issues"
   },
   "homepage": "https://github.com/gollum18/ether-auctions#readme",
-  "dependencies": {
-    "truffle": "^5.0.12"
+  "devDependencies": {
+    "truffle": "^5.0.38"
   }
 }

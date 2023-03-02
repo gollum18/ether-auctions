@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/gollum18/ether-auctions#readme",
   "devDependencies": {
-    "truffle": "^5.0.38"
+    "truffle": "^5.7.9"
   }
 }
